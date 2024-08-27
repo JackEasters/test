@@ -1,6 +1,7 @@
 package ver2;
 
 public class Account {
+	//New comment for balance
 	private double balance;
 	private String name;
 	
